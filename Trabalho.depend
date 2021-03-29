@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616969903 source:c:\users\db_ba\onedrive\Área de trabalho\estrutura de dados\trabalho\main.c
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
